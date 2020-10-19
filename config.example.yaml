@@ -1,0 +1,7 @@
+version: 2
+
+user: 
+  credentials:
+    email: "example@email.com"
+    password: "Password"
+  login_url: "http://some.api/login"
